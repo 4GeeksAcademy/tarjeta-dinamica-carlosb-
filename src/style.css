@@ -30,3 +30,12 @@ body{
     margin-right: 10px;
     transform: rotate(180deg);
 }
+
+.botonNuevaCarta{
+    margin-top: 15px;
+    background: #2946ff;
+    color: white;
+    height: 50px;
+    width: 100px;
+    border-radius: 8%;
+}
